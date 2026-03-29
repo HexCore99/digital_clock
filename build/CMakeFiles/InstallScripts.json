@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/hexcore/Prog/digital_clock/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

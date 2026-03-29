@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/digital_clock.dir/link.d CMakeFiles/digital_clock.dir/digital_clock.cpp.o -o digital_clock  /usr/lib/libraylib.so -L/usr/lib -lraylib
