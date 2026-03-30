@@ -1,4 +1,4 @@
-# Digital Clock
+# 7 Segment Digital Clock
 
 A simple seven-segment digital clock built with C++ and raylib.
 
