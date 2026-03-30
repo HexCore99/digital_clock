@@ -2,7 +2,7 @@
 
 A simple seven-segment digital clock built with C++ and raylib.
 
-The program reads your local system time every frame, converts the hour to 12-hour format, and draws `HH:MM:SS` using custom segment-drawing functions.
+The program converts the hour to 12-hour format, and draws `HH:MM:SS` using custom segment-drawing functions.
 
 ## Preview
 
