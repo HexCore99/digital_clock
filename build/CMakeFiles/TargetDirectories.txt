@@ -1,3 +1,0 @@
-/home/hexcore/Prog/digital_clock/build/CMakeFiles/digital_clock.dir
-/home/hexcore/Prog/digital_clock/build/CMakeFiles/edit_cache.dir
-/home/hexcore/Prog/digital_clock/build/CMakeFiles/rebuild_cache.dir
